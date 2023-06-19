@@ -1,0 +1,9 @@
+# EyeLink Interest Area Set created on Tue Mar 29 15:31:00 CST 2022
+# Interest area set file created using: h1.edf. Interest Period: No Interest Period Selected
+RECTANGLE	1	445.0	139.0	663.0	263.0	C
+RECTANGLE	2	339.0	544.0	842.0	678.0	E
+RECTANGLE	3	77.0	266.0	1033.0	541.0	O
+RECTANGLE	4	67.0	545.0	336.0	766.0	O
+RECTANGLE	5	64.0	1.0	443.0	263.0	O
+RECTANGLE	6	443.0	4.0	1042.0	136.0	O
+RECTANGLE	7	664.0	138.0	1047.0	262.0	O

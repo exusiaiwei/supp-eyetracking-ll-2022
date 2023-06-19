@@ -1,0 +1,2 @@
+error.log for eyelink_core created on Jun 23 2020 17:23:26
+CommandLine:ebtestrun "-W ignore::FutureWarning" -u -OO pn-6690191271066449376_exp.pyo

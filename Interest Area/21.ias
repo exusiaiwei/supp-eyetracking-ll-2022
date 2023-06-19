@@ -1,0 +1,8 @@
+# EyeLink Interest Area Set created on Mon Mar 21 15:32:56 CST 2022
+# Interest area set file created using: wzc.edf. Interest Period: No Interest Period Selected
+RECTANGLE	1	130.0	178.0	715.0	261.0	O
+RECTANGLE	2	781.0	143.0	911.0	222.0	O
+RECTANGLE	3	808.0	225.0	918.0	240.0	O
+RECTANGLE	4	121.0	410.0	705.0	485.0	C
+RECTANGLE	5	755.0	273.0	931.0	617.0	O
+RECTANGLE	6	133.0	266.0	704.0	412.0	O

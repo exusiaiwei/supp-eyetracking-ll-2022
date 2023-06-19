@@ -1,0 +1,13 @@
+10250.807 ********************************************************
+10250.874 ** Session beginning Thursday September 09, 2021 03:56:35 AM **
+10250.882 ** ExperimentBuilder Project : Test **
+10250.887 ** ExperimentBuilder Version : 2.3.1 **
+10250.892 ** ExperimentBuilder Build   : Jun 23 2020 **
+10250.897 ********************************************************
+10250.904 TRACKER_TIME 0 6437599.364
+10649.024 DISPLAY_SCREEN BLOCK.DISPLAY_SCREEN (BEGIN) 
+10665.709 DISPLAY_SCREEN BLOCK.DISPLAY_SCREEN
+13772.206 KEYBOARD BLOCK.KEYBOARD
+16940.056 EL_CAMERA_SETUP BLOCK.EL_CAMERA_SETUP
+16940.210 SetValueAction 
+17135.080 PREPARE_SEQUENCE BLOCK.TRIAL.PREPARE_SEQUENCE
