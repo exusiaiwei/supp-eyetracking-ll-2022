@@ -18,7 +18,11 @@
 
 这个项目是我在学习眼动追踪技术并进行相关研究时积累的程序和数据。
 
-眼动设备为Eyelink 1000+，实验编写程序为SR Research Experiment Builder 2.3.1，数据分析软件为SR Research Data Viewer。
+眼动追踪设备：Eyelink 1000+
+
+实验编写程序：SR Research Experiment Builder 2.3.1
+
+数据分析软件：SR Research Data Viewer
 
 设备来自武汉大学文学院语言学习及认知科学实验室。
 
