@@ -17,7 +17,9 @@
 ## 背景
 
 这个项目是我在学习眼动追踪技术并进行相关研究时积累的程序和数据。
+
 眼动设备为Eyelink 1000+，实验编写程序为SR Research Experiment Builder 2.3.1，数据分析软件为SR Research Data Viewer。
+
 设备来自武汉大学文学院语言学习及认知科学实验室。
 
 ## 安装
@@ -29,8 +31,11 @@
 本仓库包含以下内容：
 
 1. Experiment Builder 两份使用SR Research Experiment Builder 2.3.1软件完成的实验设计文件及其部署后的程序。
+
 2. Experiment Data 实验中的存档数据。
+
 3. Interest Area 实验材料的兴趣区文件。
+
 4. Library 实验材料。
 
 ## 徽章
