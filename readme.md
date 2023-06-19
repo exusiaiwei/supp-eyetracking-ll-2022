@@ -1,6 +1,7 @@
 # 眼动实验程序及数据
 
-[![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme) [builder: exusiaiwei (shields.io)](https://img.shields.io/badge/builder-exusiaiwei-blue)
+[![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme) 
+[builder: exusiaiwei](https://img.shields.io/badge/builder-exusiaiwei-blue)
 
 本项目为我在使用Eyelink眼动追踪设备时的实验程序和数据。
 
@@ -35,7 +36,8 @@
 
 ## 徽章
 
-[![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)][builder: exusiaiwei (shields.io)](https://img.shields.io/badge/builder-exusiaiwei-blue)
+[![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)]
+[builder: exusiaiwei](https://img.shields.io/badge/builder-exusiaiwei-blue)
 
 ## 相关仓库
 
