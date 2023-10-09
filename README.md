@@ -59,7 +59,3 @@ None at the moment.
 ## License
 
 MIT
-
-```
-
-This is the English translation of your README file. If you need any further assistance or modifications, please let me know.
