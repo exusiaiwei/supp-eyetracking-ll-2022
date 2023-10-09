@@ -1,7 +1,9 @@
 # Eye-tracking Experiment Program and Data
 
 [![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
+
 [中文版](https://github.com/exusiaiwei/EyeTracking-Experiment-WZC/blob/main/readme_zh.md)
+
 This project contains the experiment program and data from my usage of the Eyelink eye-tracking device.
 
 ## Table of Contents
