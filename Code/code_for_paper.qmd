@@ -1,0 +1,81 @@
+---
+title: "Code for paper"
+author: "Zichao Wei"
+date: "2023-11-25"
+format:
+  html:
+    toc: true
+    html-math-method: katex
+    css: styles.css
+    code-fold: true
+---
+
+# Code for paper
+
+This is a QMD document that demonstrates the code for displaying images in a paper.
+
+## Text and Image Fixations Over Time
+```{r}
+# Load required packages
+#install.packages("ggplot2")  # Install ggplot2 if not installed
+library(ggplot2)
+
+# Read data file
+data <- read.csv("lldata1.csv")
+
+options(repr.plot.width=10, repr.plot.height=6)
+# Create line plot using ggplot function and add custom theme
+ggplot(data, aes(x = Time)) +
+    geom_line(aes(y = Text, color = "Text"), linewidth = 0.8) +
+    geom_line(aes(y = Image, color = "Image"), linewidth = 0.8) +
+    labs(title = "Text and Image Fixations Over Time", x = "Time (milliseconds)", y = "Fixations", color = "Variable") +
+    scale_color_brewer(palette = "Set2") +
+    theme_minimal(base_size = 16) +
+    theme(
+        panel.background = element_rect(fill = "white"),
+        panel.grid.major = element_line(color = "gray", linetype = "dashed", linewidth = 0.5),
+        axis.text = element_text(size = 16, color = "black", family = "serif", margin = margin(20, 20, 0, 0, unit = "pt")),
+        axis.title = element_text(size = 18, color = "black", family = "serif", margin = margin(20, 0, 20, 0, unit = "pt")),
+        plot.title = element_text(size = 24, face = "bold", hjust = 0.5, family = "serif", margin = margin(0, 0, 40, 0, unit = "pt")),
+        legend.position = c(0.95, 0.95),
+        legend.justification = c(1, 1),
+        legend.margin = margin(5, 5, 5, 5, unit = "pt"),
+        legend.title = element_text(size = 16, face = "bold", color = "black", family = "serif"),
+        legend.text = element_text(size = 16, color = "black", family = "serif")
+    ) +
+    xlim(0, NA) +
+    ylim(0, NA)
+```
+
+## Proportion of Text and Image Fixations Over Time
+
+```{r}
+library(ggplot2)
+
+# Read data file
+data <- read.csv("lldata2.csv")
+
+options(repr.plot.width=10, repr.plot.height=6)
+
+# Create line plot using ggplot function and add custom theme
+ggplot(data, aes(x = Time)) +
+    geom_line(aes(y = Text, color = "Text"), linewidth = 0.8) +
+    geom_line(aes(y = Image, color = "Image"), linewidth = 0.8) +
+    labs(title = "Proportion of Fixations Over Time", x = "Time (milliseconds)", y = "Proportion of Fixations", color = "Variable") +
+    scale_color_brewer(palette = "Set2") +
+    theme_minimal(base_size = 16) +
+    theme(
+        panel.background = element_rect(fill = "white"),
+        panel.grid.major = element_line(color = "gray", linetype = "dashed", linewidth = 0.5),
+        axis.text = element_text(size = 16, color = "black", family = "serif", margin = margin(20, 20, 0, 0, unit = "pt")),
+        axis.title = element_text(size = 18, color = "black", family = "serif", margin = margin(20, 0, 20, 0, unit = "pt")),
+        plot.title = element_text(size = 24, face = "bold", hjust = 0.5, family = "serif", margin = margin(0, 0, 40, 0, unit = "pt")),
+        legend.position = c(0.95, 0.95),
+        legend.justification = c(1, 1),
+        legend.margin = margin(5, 5, 5, 5, unit = "pt"),
+        legend.title = element_text(size = 16, face = "bold", color = "black", family = "serif"),
+        legend.text = element_text(size = 16, color = "black", family = "serif")
+    ) +
+    xlim(0, NA) +
+    ylim(0, NA)
+```

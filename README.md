@@ -8,13 +8,15 @@ This project contains the experiment program and data from my usage of the Eyeli
 
 ## Table of Contents
 
-- [Background](#background)
-- [Installation](#installation)
-- [Usage Instructions](#usage-instructions)
-- [Badges](#badges)
-- [Related Repositories](#related-repositories)
-- [Maintainer](#maintainer)
-- [License](#license)
+- [Eye-tracking Experiment Program and Data](#eye-tracking-experiment-program-and-data)
+  - [Table of Contents](#table-of-contents)
+  - [Background](#background)
+  - [Installation](#installation)
+  - [Usage Instructions](#usage-instructions)
+  - [Badges](#badges)
+  - [Related Repositories](#related-repositories)
+  - [Maintainer](#maintainer)
+  - [License](#license)
 
 ## Background
 
@@ -43,6 +45,8 @@ This repository includes the following:
 3. Interest Area: Files for areas of interest in the experimental materials.
 
 4. Library: Experimental materials.
+
+5. Code: Experimental data and related code for data processing.
 
 ## Badges
 
