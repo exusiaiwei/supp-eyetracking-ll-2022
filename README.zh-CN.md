@@ -60,8 +60,4 @@
 
 ## 使用许可
 
-MIT
-
-```
-
-```
+[MIT](LICENSE) © exusiaiwei

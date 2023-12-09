@@ -62,4 +62,4 @@ None at the moment.
 
 ## License
 
-MIT
+[MIT](LICENSE) © exusiaiwei
