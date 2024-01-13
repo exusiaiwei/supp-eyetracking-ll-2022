@@ -1,6 +1,10 @@
 # 眼动实验程序及数据
 
-[![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
+![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)
+
+![GitHub Repo stars](https://img.shields.io/github/stars/exusiaiwei/EyeTracking-Experiment-WZC)
+
+![GitHub forks](https://img.shields.io/github/forks/exusiaiwei/EyeTracking-Experiment-WZC)
 
 本项目为我在使用Eyelink眼动追踪设备时的实验程序和数据。
 
