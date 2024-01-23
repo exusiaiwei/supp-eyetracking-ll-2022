@@ -1,12 +1,12 @@
 # Eye-tracking Experiment Program and Data
 
+[中文版](https://github.com/exusiaiwei/EyeTracking-Experiment-WZC/blob/main/README.zh-CN.md)
+
 ![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/exusiaiwei/EyeTracking-Experiment-WZC)
 
 ![GitHub forks](https://img.shields.io/github/forks/exusiaiwei/EyeTracking-Experiment-WZC)
-
-[中文版](https://github.com/exusiaiwei/EyeTracking-Experiment-WZC/blob/main/readme_zh.md)
 
 This project contains the experiment program and data from my usage of the Eyelink eye-tracking device.
 
@@ -59,6 +59,7 @@ This repository includes the following:
 ![GitHub Repo stars](https://img.shields.io/github/stars/exusiaiwei/EyeTracking-Experiment-WZC)
 
 ![GitHub forks](https://img.shields.io/github/forks/exusiaiwei/EyeTracking-Experiment-WZC)
+
 ## Related Repositories
 
 None at the moment.

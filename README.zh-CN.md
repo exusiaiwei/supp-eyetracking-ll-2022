@@ -1,5 +1,7 @@
 # 眼动实验程序及数据
 
+[English version](https://github.com/exusiaiwei/EyeTracking-Experiment-WZC/blob/main/README.md)
+
 ![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/exusiaiwei/EyeTracking-Experiment-WZC)
@@ -53,6 +55,10 @@
 ## 徽章
 
 ![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)
+
+![GitHub Repo stars](https://img.shields.io/github/stars/exusiaiwei/EyeTracking-Experiment-WZC)
+
+![GitHub forks](https://img.shields.io/github/forks/exusiaiwei/EyeTracking-Experiment-WZC)
 
 ## 相关仓库
 
