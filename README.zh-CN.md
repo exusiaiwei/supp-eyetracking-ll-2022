@@ -1,73 +1,72 @@
-# 眼动实验程序及数据
+当然，以下是中文版的README文件：
 
-[English version](https://github.com/exusiaiwei/EyeTracking-Experiment-WZC/blob/main/README.md)
+<div align="center">
+  <h1>眼动实验程序与数据</h1>
+  <p>
+    <a href="README.md">English</a> |
+    <b>简体中文</b>
+  </p>
 
-![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)
+  <!-- 徽章 -->
+  <p>
+    <img src="https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square" alt="readme 样式">
+    <img src="https://img.shields.io/github/stars/exusiaiwei/supp-eyetracking-ll-2022" alt="星标数">
+    <img src="https://img.shields.io/github/forks/exusiaiwei/supp-eyetracking-ll-2022" alt="分支数">
+    <img src="https://img.shields.io/github/license/exusiaiwei/supp-eyetracking-ll-2022" alt="许可证">
+    <img src="https://img.shields.io/github/last-commit/exusiaiwei/supp-eyetracking-ll-2022" alt="最后提交">
+  </p>
+</div>
 
-![GitHub Repo stars](https://img.shields.io/github/stars/exusiaiwei/EyeTracking-Experiment-WZC)
+本项目包含了我使用Eyelink眼动仪的实验程序和数据。
 
-![GitHub forks](https://img.shields.io/github/forks/exusiaiwei/EyeTracking-Experiment-WZC)
+## 目录
 
-本项目为我在使用Eyelink眼动追踪设备时的实验程序和数据。
-
-## 内容列表
-
-- [眼动实验程序及数据](#眼动实验程序及数据)
-  - [内容列表](#内容列表)
-  - [背景](#背景)
-  - [安装](#安装)
-  - [使用说明](#使用说明)
-  - [徽章](#徽章)
-  - [相关仓库](#相关仓库)
-  - [维护者](#维护者)
-  - [使用许可](#使用许可)
+- [目录](#目录)
+- [背景](#背景)
+- [安装](#安装)
+- [使用说明](#使用说明)
+- [相关仓库](#相关仓库)
+- [维护者](#维护者)
+- [许可证](#许可证)
 
 ## 背景
 
-这个项目是我在学习眼动追踪技术并进行相关研究时积累的程序和数据。
+本项目是我在学习和研究眼动追踪技术过程中积累的程序和数据。
 
-眼动追踪设备：Eyelink 1000+
+- 眼动仪设备：Eyelink 1000+
+- 实验编写软件：SR Research Experiment Builder 2.3.1
+- 数据分析软件：SR Research Data Viewer
 
-实验编写程序：SR Research Experiment Builder 2.3.1
-
-数据分析软件：SR Research Data Viewer
-
-设备来自武汉大学文学院语言学习及认知科学实验室。
+设备来自武汉大学语言学习与认知科学实验室。
 
 ## 安装
 
-本项目为实验程序和数据，需安装SR Research Experiment Builder和Data Viewer软件进行读取。
+本项目包含实验程序和数据，需要安装SR Research Experiment Builder和Data Viewer软件才能查看。
 
 ## 使用说明
 
-本仓库包含以下内容：
+本仓库包括以下内容：
 
-1. Experiment Builder 两份使用SR Research Experiment Builder 2.3.1软件完成的实验设计文件及其部署后的程序。
-
-2. Experiment Data 实验中的存档数据。
-
-3. Interest Area 实验材料的兴趣区文件。
-
-4. Library 实验材料。
-
-5. Code 用于数据处理的实验数据和相关代码。
-
-## 徽章
-
-![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)
-
-![GitHub Repo stars](https://img.shields.io/github/stars/exusiaiwei/EyeTracking-Experiment-WZC)
-
-![GitHub forks](https://img.shields.io/github/forks/exusiaiwei/EyeTracking-Experiment-WZC)
+1. Experiment Builder：使用SR Research Experiment Builder 2.3.1软件创建的两个实验设计文件及其部署程序。
+2. Experiment Data：实验的归档数据。
+3. Interest Area：实验材料的兴趣区文件。
+4. Library：实验材料。
+5. Code：实验数据及相关数据处理代码。
 
 ## 相关仓库
 
-暂无
+目前暂无。
 
 ## 维护者
 
-@exusiaiwei
+[@exusiaiwei](https://github.com/exusiaiwei)
 
-## 使用许可
+## 许可证
 
 [MIT](LICENSE) © exusiaiwei
+
+<div align="center">
+  <p>
+    <a href="#眼动实验程序与数据">返回顶部</a>
+  </p>
+</div>
