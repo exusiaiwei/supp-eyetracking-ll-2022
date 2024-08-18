@@ -7,7 +7,7 @@
 
   <!-- Badges -->
   <p>
-    <img src="https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square" alt="readme style">
+    <img src="https://img.shields.io/badge/readme%20style-standard-brightgreen.svg" alt="readme style">
     <img src="https://img.shields.io/github/stars/exusiaiwei/supp-eyetracking-ll-2022" alt="stars">
     <img src="https://img.shields.io/github/forks/exusiaiwei/supp-eyetracking-ll-2022" alt="forks">
     <img src="https://img.shields.io/github/license/exusiaiwei/supp-eyetracking-ll-2022" alt="license">
@@ -17,17 +17,16 @@
 
 This project contains the experiment program and data from my usage of the Eyelink eye-tracking device.
 
-## Table of Contents
+## 📋 Table of Contents
 
-- [Table of Contents](#table-of-contents)
-- [Background](#background)
-- [Installation](#installation)
-- [Usage Instructions](#usage-instructions)
-- [Related Repositories](#related-repositories)
-- [Maintainer](#maintainer)
-- [License](#license)
+- [🌟 Background](#-background)
+- [💻 Installation](#-installation)
+- [📖 Usage Instructions](#-usage-instructions)
+- [🔗 Related Repositories](#-related-repositories)
+- [👤 Maintainer](#-maintainer)
+- [📄 License](#-license)
 
-## Background
+## 🌟 Background
 
 This project is an accumulation of programs and data from my study and research involving eye-tracking technology.
 
@@ -37,11 +36,11 @@ This project is an accumulation of programs and data from my study and research 
 
 The equipment is from the Language Learning and Cognitive Science Laboratory at Wuhan University.
 
-## Installation
+## 💻 Installation
 
 This project contains experiment programs and data that require the installation of SR Research Experiment Builder and Data Viewer software for viewing.
 
-## Usage Instructions
+## 📖 Usage Instructions
 
 This repository includes the following:
 
@@ -51,20 +50,20 @@ This repository includes the following:
 4. Library: Experimental materials.
 5. Code: Experimental data and related code for data processing.
 
-## Related Repositories
+## 🔗 Related Repositories
 
 None at the moment.
 
-## Maintainer
+## 👤 Maintainer
 
 [@exusiaiwei](https://github.com/exusiaiwei)
 
-## License
+## 📄 License
 
 [MIT](LICENSE) © exusiaiwei
 
 <div align="center">
   <p>
-    <a href="#eye-tracking-experiment-program-and-data">Back to Top</a>
+    <a href="#-eye-tracking-experiment-program-and-data">Back to Top</a>
   </p>
 </div>
