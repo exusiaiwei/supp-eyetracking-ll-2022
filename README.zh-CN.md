@@ -20,6 +20,7 @@
 ## 📋 目录
 
 - [🌟 背景](#-背景)
+- [📊 数据说明](#-数据说明)
 - [💻 安装](#-安装)
 - [📖 使用说明](#-使用说明)
 - [🔗 相关仓库](#-相关仓库)
@@ -36,6 +37,44 @@
 
 设备来自武汉大学语言学习与认知科学实验室。
 
+## 📊 数据说明
+
+### 处理后的数据文件
+`experiment_data_processed/` 文件夹包含经过处理的眼动追踪数据，以CSV格式存储，数据来源于 `experiment_data/414/注视情况.xlsx` 中的综合数据集。
+
+**数据文件：**
+- `S01.csv` - S09.csv：个体参与者数据文件
+- 每个文件包含一个参与者的完整眼动追踪数据
+- 总计：9个参与者，9,766个数据点
+
+**数据列：**
+- `RECORDING_SESSION_LABEL`：参与者ID (S01-S09)
+- `TRIAL_INDEX`：试验编号
+- `CURRENT_FIX_INTEREST_AREA_LABEL`：兴趣区标签
+- `CURRENT_FIX_START`：注视开始时间 (毫秒)
+- `CURRENT_FIX_END`：注视结束时间 (毫秒)
+- `CURRENT_FIX_INTEREST_AREA_DWELL_TIME`：兴趣区停留时间 (毫秒)
+
+**参与者信息：**
+| 文件 | 数据点数 | 说明 |
+|------|----------|------|
+| S01.csv | 1,149 | 完整数据 |
+| S02.csv | 992 | 完整数据 |
+| S03.csv | 1,146 | 完整数据 |
+| S04.csv | 1,089 | 完整数据 |
+| S05.csv | 884 | 完整数据 |
+| S06.csv | 1,231 | 完整数据 |
+| S07.csv | 1,079 | 完整数据 |
+| S08.csv | 998 | 完整数据 |
+| S09.csv | 1,198 | 完整数据 |
+
+### 数据处理
+数据使用 `process_414_data.py` 脚本进行处理，该脚本：
+1. 从 `experiment_data/414/` 中的综合Excel文件提取数据
+2. 按参与者分离数据
+3. 标准化参与者ID以保护隐私
+4. 导出单独的CSV文件，便于分享和分析
+
 ## 💻 安装
 
 本项目包含实验程序和数据，需要安装SR Research Experiment Builder和Data Viewer软件才能查看。
@@ -44,11 +83,12 @@
 
 本仓库包括以下内容：
 
-1. Experiment Builder：使用SR Research Experiment Builder 2.3.1软件创建的两个实验设计文件及其部署程序。
-2. Experiment Data：实验的归档数据。
-3. Interest Area：实验材料的兴趣区文件。
-4. Library：实验材料。
-5. Code：实验数据及相关数据处理代码。
+1. **Experiment Builder**：使用SR Research Experiment Builder 2.3.1软件创建的两个实验设计文件及其部署程序。
+2. **Experiment Data**：实验的原始归档数据。
+3. **Processed Data**：经过处理的CSV文件，可直接用于分析（详见数据说明）。
+4. **Interest Area**：实验材料的兴趣区文件。
+5. **Library**：实验材料。
+6. **Code**：实验数据及相关数据处理代码。
 
 ## 🔗 相关仓库
 
